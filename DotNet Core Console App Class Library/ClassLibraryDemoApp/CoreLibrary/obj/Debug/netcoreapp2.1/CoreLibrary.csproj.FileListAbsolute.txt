@@ -1,0 +1,9 @@
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\bin\Debug\netcoreapp2.1\CoreLibrary.deps.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\bin\Debug\netcoreapp2.1\CoreLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\bin\Debug\netcoreapp2.1\CoreLibrary.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.csprojAssemblyReference.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.AssemblyInfo.cs
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\CoreLibrary\obj\Debug\netcoreapp2.1\CoreLibrary.pdb

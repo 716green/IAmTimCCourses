@@ -1,0 +1,9 @@
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.deps.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csprojAssemblyReference.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfoInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfo.cs
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.pdb

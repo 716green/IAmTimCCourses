@@ -1,0 +1,6 @@
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\bin\Debug\FrameworkLibrary.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csprojAssemblyReference.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\DotNet Core Console App Class Library\ClassLibraryDemoApp\FrameworkLibrary\obj\Debug\FrameworkLibrary.pdb

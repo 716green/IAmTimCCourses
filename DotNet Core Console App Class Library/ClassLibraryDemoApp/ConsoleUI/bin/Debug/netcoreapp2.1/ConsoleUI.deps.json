@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleUI/1.0.0": {
+        "dependencies": {
+          "CoreLibrary": "1.0.0",
+          "FrameworkLibrary": "1.0.0",
+          "StandardLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleUI.dll": {}
+        }
+      },
+      "CoreLibrary/1.0.0": {
+        "runtime": {
+          "CoreLibrary.dll": {}
+        }
+      },
+      "FrameworkLibrary/1.0.0": {
+        "runtime": {
+          "FrameworkLibrary.dll": {}
+        }
+      },
+      "StandardLibrary/1.0.0": {
+        "runtime": {
+          "StandardLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FrameworkLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StandardLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
