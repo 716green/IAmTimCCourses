@@ -6,12 +6,22 @@ namespace ConsoleMethodStandardLibrary
 {
     public class MethodsClass
     {
-
-        // This is a disaster
-        public string ReplaceSpaces(string originalName)
+        public int AddNumbers(int x, int y)
         {
-            //CleanName = originalName.Replace("  ", " ");
-            return originalName;
+            return x + y;
+        }
+
+        public string RemoveSpaces(string x)
+        {
+            while (x.Contains("  "))
+            {
+                x = x.Replace("  ", " ");
+            }
+            if (x.StartsWith(" "))
+            {
+                x = x.Trim();
+            }
+            return x;
         }
     }
 }
