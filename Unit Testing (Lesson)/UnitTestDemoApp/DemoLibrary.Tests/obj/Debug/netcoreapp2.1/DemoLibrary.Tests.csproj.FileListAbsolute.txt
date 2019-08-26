@@ -1,0 +1,17 @@
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.Tests.deps.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.Tests.runtimeconfig.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.Tests.runtimeconfig.dev.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.Tests.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.Tests.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\bin\Debug\netcoreapp2.1\DemoLibrary.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.csprojAssemblyReference.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.AssemblyInfoInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.AssemblyInfo.cs
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.csproj.CopyComplete
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary.Tests\obj\Debug\netcoreapp2.1\DemoLibrary.Tests.pdb

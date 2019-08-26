@@ -1,0 +1,9 @@
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\bbass\source\repos\Learning\IAmTimCCourses\Unit Testing (Lesson)\UnitTestDemoApp\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
